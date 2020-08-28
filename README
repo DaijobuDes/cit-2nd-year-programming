@@ -14,5 +14,10 @@ Any bugs or mistakes? Feel free to open an issue or pull request to fix it.
 
 --------------------------------------------------------------------------------------------
 
+External Dependencies:
+log.c                 | https://github.com/rxi/log.c
+
+--------------------------------------------------------------------------------------------
+
 Folders/Activities (with PDF)
 01-airlines - 08-28-2020
