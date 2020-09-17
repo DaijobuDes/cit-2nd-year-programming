@@ -14,13 +14,16 @@ Set initialize();
 void display(Set s);
 Set add(Set s, int elem);
 int contains(Set s, int elem);
-void getUnion(Set result, Set s1, Set s2);
-void intersection(Set result, Set s1, Set s2);
-void difference(Set result, Set s1, Set s2);
-void symmetricdifference(Set result, Set s1, Set s2);
+Set getUnion(Set result, Set s1, Set s2);
+Set intersection(Set result, Set s1, Set s2);
+Set difference(Set result, Set s1, Set s2);
+Set symmetricdifference(Set result, Set s1, Set s2);
 int subset(Set s1, Set s2);
 int disjoint(Set s1, Set s2);
 int equal(Set s1, Set s2);
+
+nodeptr create(int elem);
+void menu();
 
 
 #if defined(__linux__) || defined(__APPLE__)
