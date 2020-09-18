@@ -5,7 +5,8 @@
 
 int main(int argc, char const *argv[])
 {
-    Set s1 = initialize(), s2 = initialize();
+    Set s1 = initialize();
+    Set s2 = initialize();
     Set result = initialize();
 
     const char menuSet[] = "\n1. Set A\n2. Set B: ";
