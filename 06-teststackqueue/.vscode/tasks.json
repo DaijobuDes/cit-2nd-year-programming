@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: gcc.exe build active file",
+			"command": "C:\\MinGW\\bin\\gcc.exe",
+			"args": [
+				"-Wall",
+				// "-v",
+				"-g",
+				"*.c",
+				"-o",
+				"${workspaceFolder}\\main.exe"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build"
+		}
+	]
+}
