@@ -1,0 +1,30 @@
+#welcomeText {
+    font-size: 75pt;
+}
+
+.content {
+    align-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#content {
+    margin-left: 10%;
+    margin-right:10%;
+    width: 80%;
+    padding: 20px; 
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+#image {
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    min-width: 256px;
+    border-radius: 12px;
+    float: left;
+    box-shadow: 5px 5px 4px 0px rgb(167, 167, 167);
+    height: 296px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
