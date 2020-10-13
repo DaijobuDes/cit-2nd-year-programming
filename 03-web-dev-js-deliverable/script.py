@@ -6,7 +6,6 @@ ans = input("How are you feeling? ")
 
 if ans == "I'm feeling down":
     ans2 = input("Are you feeling down because of your job? ")
-    ans2.lower()
     if ans2 == "yes":
         ans3 = input("Why are you down? ")
         if ans3 == "I'm stressed":
