@@ -23,6 +23,7 @@ C:\xampp\htdocs\psa\
 |   login.php
 |   logout.php
 |   phpinfo.php
+|   README.md
 |   update.php
 |
 +---css\
