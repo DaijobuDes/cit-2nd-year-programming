@@ -1,0 +1,17 @@
+#loginBtn {
+    margin-left: 1em;
+    margin-top: 15px;
+}
+
+#resetBtn {
+    margin-left: 2em;
+    margin-top: 15px;
+}
+
+.loginBox {
+    width: 258px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 25px;
+    margin-top: 200px;
+    margin-left: 513px;
+}

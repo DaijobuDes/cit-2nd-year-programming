@@ -1,0 +1,27 @@
+#header {
+    margin-top: 3%;
+}
+
+#names, #birthdate, #birthaddress,
+#parent_name, #fathersname, #mothersname {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* #button_submit {
+    padding-top: 1%;
+    padding-bottom: 1%;
+} */
+
+
+.form-control {
+    width: 100%;
+    /* padding: 12px 20px; */
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+
+.lead {
+    padding-top: 3pt;
+}
+
