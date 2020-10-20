@@ -3,7 +3,7 @@
 #### Directory Structure
 
 ```
-psa\
+C:\xampp\htdocs\psa\
 |   config.php
 |   create.php
 |   db_info.php
