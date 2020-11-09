@@ -6,6 +6,7 @@ Repository containing exercises on our school.
 
 Compiling Instructions:
 Since we use C, use gcc to compile the code then execute.
+On Java, JDK versions 11 and later are recommended.
 
 --------------------------------------------------------------------------------------------
 
